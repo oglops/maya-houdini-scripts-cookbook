@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Maya](maya.md)
    * [Dynamics](maya/dynamics.md)
-   * Rigging
+   * [Rigging](maya/rigging.md)
    * FX
    * Cloth
    * UI
