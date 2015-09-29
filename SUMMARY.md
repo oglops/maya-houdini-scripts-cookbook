@@ -9,4 +9,9 @@
    * [UI](maya/ui.md)
    * [Misc](maya/misc.md)
 * [Houdini](houdini.md)
-
+   * [Dynamics](houdini/dynamics.md)
+   * [Rigging](houdini/rigging.md)
+   * [FX](houdini/fx.md)
+   * [Cloth](houdini/cloth.md)
+   * [UI](houdini/ui.md)
+   * [Misc](houdini/misc.md)
