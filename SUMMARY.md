@@ -6,7 +6,7 @@
    * [Rigging](maya/rigging.md)
    * [FX](maya/fx.md)
    * [Cloth](maya/cloth.md)
-   * UI
+   * [UI](maya/ui.md)
    * Misc
 * [Houdini](houdini.md)
 
