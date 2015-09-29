@@ -4,7 +4,7 @@
 * [Maya](maya.md)
    * [Dynamics](maya/dynamics.md)
    * [Rigging](maya/rigging.md)
-   * FX
+   * [FX](maya/fx.md)
    * Cloth
    * UI
    * Misc
