@@ -7,6 +7,6 @@
    * [FX](maya/fx.md)
    * [Cloth](maya/cloth.md)
    * [UI](maya/ui.md)
-   * Misc
+   * [Misc](maya/misc.md)
 * [Houdini](houdini.md)
 
