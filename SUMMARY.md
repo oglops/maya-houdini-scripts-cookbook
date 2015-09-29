@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Maya](maya.md)
-* Houdini
+* [Houdini](houdini.md)
 
