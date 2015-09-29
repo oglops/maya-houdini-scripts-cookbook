@@ -7,5 +7,6 @@
    * FX
    * Cloth
    * UI
+   * Misc
 * [Houdini](houdini.md)
 
