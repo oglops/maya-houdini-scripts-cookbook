@@ -6,5 +6,6 @@
    * Rigging
    * FX
    * Cloth
+   * UI
 * [Houdini](houdini.md)
 
