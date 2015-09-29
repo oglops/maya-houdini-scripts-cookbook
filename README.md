@@ -1,4 +1,4 @@
-My Awesome Book
+Maya Houdini Scripts Cookbook
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+此乃各位大大们日常解决小问题的脚本集合神书.
