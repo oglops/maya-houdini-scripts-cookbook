@@ -5,5 +5,6 @@
    * Dynamics
    * Rigging
    * FX
+   * Cloth
 * [Houdini](houdini.md)
 
