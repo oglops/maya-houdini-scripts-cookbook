@@ -4,5 +4,6 @@
 * [Maya](maya.md)
    * Dynamics
    * Rigging
+   * FX
 * [Houdini](houdini.md)
 
