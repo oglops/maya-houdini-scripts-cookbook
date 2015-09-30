@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Maya](maya.md)
+   * [Animation](maya/anim.md)
    * [Dynamics](maya/dynamics.md)
    * [Rigging](maya/rigging.md)
    * [FX](maya/fx.md)
